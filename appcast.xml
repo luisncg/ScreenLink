@@ -19,8 +19,8 @@
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/luisncg/ScreenLink/releases/download/v1.1/ScreenLink.dmg"
-        sparkle:edSignature="a9jblBK9BZUQrNSQresJnNnQA52mRQYTCMJZDbm56EVz+XHTNlhPNV7ZkO3dGX07nkyOi170PC/KVRX4WgXSCA=="
-        length="35084984"
+        sparkle:edSignature="PYOYC7MvMViIPekp/3UNrUdrDyV+bPSvoiqMkDZO0YoMERwUKHCLJx+mzf9iXLAKyvHGsxfzkBj2ZsVq4ZSXAQ=="
+        length="35194702"
         type="application/octet-stream" />
     </item>
   </channel>
