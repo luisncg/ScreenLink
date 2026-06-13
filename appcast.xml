@@ -6,6 +6,24 @@
     <description>Updates for ScreenLink.</description>
     <language>en</language>
     <item>
+      <title>Version 1.2</title>
+      <description><![CDATA[
+        <ul>
+          <li>Opens with a single double-click — now signed and verified by Apple (no security workaround).</li>
+          <li>Smaller, faster download.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 13 Jun 2026 19:05:00 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/luisncg/ScreenLink/releases/download/v1.2/ScreenLink.dmg"
+        sparkle:edSignature="Pdzmwz84Kx8zKV4IJDAdkqjxVSrBRITC1WJw02CM4E7CVXvNbCYc8Q7wjFzFLRSiyXkPUi6+ZtQ4Q83hPzGfBA=="
+        length="29914482"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.1</title>
       <description><![CDATA[
         <ul>
