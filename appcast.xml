@@ -6,6 +6,25 @@
     <description>Updates for ScreenLink.</description>
     <language>en</language>
     <item>
+      <title>Version 1.7</title>
+      <description><![CDATA[
+        <ul>
+          <li>Create a room with one click — you're put straight into the call with a code to share.</li>
+          <li>Join with options: start muted, or share your screen right away.</li>
+          <li>See which account you're signed in as, and check granted permissions at a glance.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 13 Jun 2026 22:50:00 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/luisncg/ScreenLink/releases/download/v1.7/ScreenLink.dmg"
+        sparkle:edSignature="69avWx/FOnVaI5krOyuX+ON/tA37BcbKlPA9kvv7Vv/Qdi9o2BS956o/i5fr5A4TPtN51jFRB3EOwV+4aLRlBg=="
+        length="29954184"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6</title>
       <description><![CDATA[
         <ul>
