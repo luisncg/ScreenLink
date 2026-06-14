@@ -6,6 +6,23 @@
     <description>Updates for ScreenLink.</description>
     <language>en</language>
     <item>
+      <title>Version 1.4</title>
+      <description><![CDATA[
+        <ul>
+          <li>Fixes joining a call — the microphone now works and joining no longer gets stuck.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 13 Jun 2026 20:30:00 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/luisncg/ScreenLink/releases/download/v1.4/ScreenLink.dmg"
+        sparkle:edSignature="3FK4Pvvz7sapIXg7TBn2YpkNcKlHdBlvnfYqKzLi8gfyLLvekRquq8VikwjBfR1roIop76SjCNOZGSpyPuGjAA=="
+        length="29929697"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.3</title>
       <description><![CDATA[
         <ul>
