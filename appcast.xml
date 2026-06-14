@@ -6,6 +6,23 @@
     <description>Updates for ScreenLink.</description>
     <language>en</language>
     <item>
+      <title>Version 1.5</title>
+      <description><![CDATA[
+        <ul>
+          <li>Smoother permission setup — a Restart button applies Screen Recording / Accessibility in one click.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 13 Jun 2026 21:10:00 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/luisncg/ScreenLink/releases/download/v1.5/ScreenLink.dmg"
+        sparkle:edSignature="VjMUIHolReiVU+HP6xuIQpWYvoOoD4bK0WPwZtInixDllJ3LwqQ5a7fVEzS8f635RyPeGRSfQpgSqvBIkqL+Bg=="
+        length="29931946"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.4</title>
       <description><![CDATA[
         <ul>
