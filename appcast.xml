@@ -6,6 +6,23 @@
     <description>Updates for ScreenLink.</description>
     <language>en</language>
     <item>
+      <title>Version 1.6</title>
+      <description><![CDATA[
+        <ul>
+          <li>Fixes joining a call — joining a room now connects instead of spinning forever.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 13 Jun 2026 22:05:00 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/luisncg/ScreenLink/releases/download/v1.6/ScreenLink.dmg"
+        sparkle:edSignature="sraDM1m7PKJhttWTuUXW5B+spJzFdf6G6MzS/Suk5KlgkCVydnm/MDkIHpbgr8hSKkqu0VuWaY7qyEdAEVFvDQ=="
+        length="29945295"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.5</title>
       <description><![CDATA[
         <ul>
