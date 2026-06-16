@@ -6,6 +6,23 @@
     <description>Updates for ScreenLink.</description>
     <language>en</language>
     <item>
+      <title>Version 1.9</title>
+      <description><![CDATA[
+        <ul>
+          <li>Chat during a call — send text messages and images (drag in a file, paste a screenshot, or pick one) right inside the call.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 16 Jun 2026 18:00:00 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/luisncg/ScreenLink/releases/download/v1.9/ScreenLink.dmg"
+        sparkle:edSignature="wJRvtx/xLIsIlArlRTfXM4veM3JBvl9S1lY0Lts7dhgT03ynkKPO+0ltEZwQRIpo5gARHQ0Ek3g/XxUE6ornCg=="
+        length="29978962"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.8</title>
       <description><![CDATA[
         <ul>
