@@ -6,6 +6,23 @@
     <description>Updates for ScreenLink.</description>
     <language>en</language>
     <item>
+      <title>Version 1.8</title>
+      <description><![CDATA[
+        <ul>
+          <li>The call screen now updates the moment the other person joins — no more being stuck on "Waiting…".</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 16 Jun 2026 17:45:00 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/luisncg/ScreenLink/releases/download/v1.8/ScreenLink.dmg"
+        sparkle:edSignature="0OC5FBcjc2DoUuhliFLjZiOA86jX7+EzMXJdxKDxraXuqRZLIJLm47YX2n4T+BoWprV218qqlzX7NFqtHURFDA=="
+        length="29953345"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.7</title>
       <description><![CDATA[
         <ul>
